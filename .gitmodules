@@ -1,0 +1,6 @@
+[submodule "modules/vim-pct"]
+	path = modules/vim-pct
+	url = https://github.com/d0c-s4vage/pct-vim
+[submodule "modules/graudit"]
+	path = modules/graudit
+	url = https://github.com/wireghoul/graudit
